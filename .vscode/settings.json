@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/home/mk/anaconda3/envs/facedetect/bin/python"
+    "python.pythonPath": "/home/mk/anaconda3/envs/facedetect/bin/python",
+    "python.terminal.activateEnvironment": false
 }
