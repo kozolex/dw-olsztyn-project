@@ -1,4 +1,8 @@
 {
+<<<<<<< HEAD
     "python.pythonPath": "/home/mk/anaconda3/envs/facedetect/bin/python",
     "python.terminal.activateEnvironment": false
+=======
+    "python.pythonPath": "/home/kozol/miniconda3/envs/fdetect/bin/python"
+>>>>>>> 067cdf903dd32005ca96fb8c4154a3dfac809e35
 }

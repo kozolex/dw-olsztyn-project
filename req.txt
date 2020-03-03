@@ -1,0 +1,23 @@
+conda install -c conda-forge opencv
+conda install -c conda-forge imutils
+apt install python3-pip
+pip install dlib
+
+#conda install -c conda-forge dlib
+
+#Cmake install
+Installation by a PPA (Upgrade to 3.2)
+
+sudo apt-get install software-properties-common
+sudo add-apt-repository ppa:george-edison55/cmake-3.x
+sudo apt-get update
+When cmake is not yet installed:
+
+sudo apt-get install cmake
+sudo pip3 install face_recognition
+
+conda install -c akode face_recognition_models
+
+
+
+
