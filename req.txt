@@ -20,6 +20,6 @@ sudo pip3 install face_recognition
 
 conda install -c akode face_recognition_models
 
-
+conda install -c anaconda mysql-connector-python
 
 
